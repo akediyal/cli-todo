@@ -11,7 +11,7 @@ A simple command-line interface for managing todos.
   - Adds a new todo with the provided task description.
   
 - **`update <todo_num>`**
-  - Marks the todo at the specified number as completed.
+  - Toggles the status of the todo at the specified number.
 
 - **`edit <todo_num> <new_todo>`**
   - Edits the task description of the todo at the specified number.
